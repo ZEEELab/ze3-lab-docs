@@ -1,5 +1,6 @@
 # Getting started on the Great Lakes HPC Cluster
 
+Contents
 <!-- TOC -->
 
 - [Resources](#resources)
