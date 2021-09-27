@@ -9,6 +9,8 @@ Contents
 - [Submitting your first job](#submitting-your-first-job)
   - [A basic job](#a-basic-job)
   - [An array job](#an-array-job)
+- [Downloading data from Great Lakes](#downloading-data-from-great-lakes)
+  - [Using sftp (command line)](#using-sftp-command-line)
 
 <!-- /TOC -->
 
@@ -110,3 +112,19 @@ echo "hello world" > ${OUTPUT_DIR}/job-${JOB_ID}/hello.txt
 ```
 
 Notice that this script is just slightly different from the previous example. We've added `#SBATCH --array=1-10` to specify that this is an array job, and we're using the `SLURM_ARRAY_TASK_ID` environment variable to set a job id. This array job will create 10 independent jobs, and each will create a job-X directory (where X is specified by the job's array id) and make a `hello.txt` files inside that directory.
+
+## Downloading data from Great Lakes
+
+### Using sftp (command line)
+
+"sftp" = [Secure File Transfer Protocol](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol)
+
+1. Log on to great lakes with sftp: `sftp username@greatlakes-xfer.arc-ts.umich.edu` where `username` is replaced by your username.
+   - Once you've logged on successfully, your command line prompt should be something like `sftp>`
+2. You are now logged onto the HPC via sftp. You can navigate the file system much like you would as if you were ssh'd into the HPC. Use the `get` command to download files from the HPC to your local machine. (ctrl-f for `get` in [this sftp documentation](https://man7.org/linux/man-pages/man1/sftp.1.html))
+   - For example, if I wanted to download a file called `data.csv` at `/scratch/zamanlh_root/zamanlh0/lalejini`, I could run `get /scratch/zamanlh_root/zamanlh0/lalejini/data.csv` to download `data.csv`.
+   - If I wanted to download an entire directory (including the content of all of its subdirectories), I could use the `-r` argument for `get`. For example, `get /scratch/zamanlh_root/zamanlh0/lalejini/data` would download _everything_ inside of the `/scratch/zamanlh_root/zamanlh0/lalejini/data` directory.
+
+
+
+
