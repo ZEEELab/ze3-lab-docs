@@ -14,9 +14,9 @@
   - At UofM all employees, students, staff and faculty need to be vaccinated against COVID-19 and submit proof of vaccination. 
   - To Submit proof of vaccination to to *Wolverine Access* --> *COVID-19* --> *Report COVID-17 Vaccination* (Select partial vaccination if you have recieved one dose of a two dose vaccine series or if it will not be two weeks post final dose before your hire date) 
 
-## My Linc Trainings (Link) 
-- All required online trainings will be through My Linc. 
-- To access My linc go to *Womverine Access* --> *My Linc* 
+## My LINC Trainings (Link) 
+- All required online trainings will be through My LINC. 
+- To access My linc go to *Womverine Access* --> *My LINC* 
 - New Hire Trainings: 
   - **FERPA**: RO100 FERPA at U-M
   - **Culture of Respect and Sexual Harassment**: OL_19SMC01 Cultivating a Culture of Respect 
