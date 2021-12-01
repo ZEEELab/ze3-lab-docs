@@ -2,10 +2,10 @@
 
 ## Wolverine Access Information (Attach link to WA here) 
 - Timesheets 
-  - If you are non-exempt, you will need to submit your timesheet by the last Sunday of hte bi-weekly pay period. 
+  - If you are non-exempt, you will need to submit your timesheet by the last Sunday of the bi-weekly pay period. 
   - If you are exempt, you will need to submit your timesheet by the last Monday of each month. 
   - To submit/edit your timesheet go to *Wolverine Access* --> *Employee Self Service* --> *Time Reporting* 
-  - Codes: if you worked a nromal week you will enter REG - Regular into the code box. If you used sick time or vacation time, use the appropriate codes. If you used a combination of times during the week, enter in all necessary codes into the combination code box.
+  - Codes: if you worked a nromal week you will enter *REG - Regular* into the code box. If you used sick time or vacation time, use the appropriate codes. If you used a combination of times during the week, enter in all necessary codes into the combination code box.
 - Paycheck/Direct Deposit/Tax Documents 
   - To view you paycheck, set up direct deposit, or view/edit your tax documents, go to *Wolverine Access* --> *Employee Self Service* --> *Payroll and Composition* 
 - Benefits 
@@ -28,3 +28,14 @@
   - **Working During Covid-19**: EHS_OHS_COVIDw COVID-19: Working Safely at U-M 
   - **Bloodborne Pathogens**: EHS_BLS100w Bloodborne Pathogen (BBP) Training for Researhc Labs 
   - **BSL 2**: EHS_BLS301w Biosafety Training (BSL-2)
+
+## ResponsiBLUE
+- Before entering any campus buildings you must complete a COVID-19 screening. You can download the ResponsiBLUE app or access the screening through the COVID-19 section in Wolverine Access  
+- You can also find related COVID-19 information and on campus health services through ResponsiBLUE 
+
+## MCard 
+- You will beed an MCard to get access to the building, surrounding campus buildings and the lab space
+- The closest building MCard service building is the Student Activites Center (link)
+- You will need a photo ID and a filled out form found (link) 
+  - *Note*: You do not need a form if you are already past your hire date and your appoitment is in the system
+- A few minutes after your card is printed, you will have general access to some campus buildings. In order to get access to the lab space, have Luis email Linda your UMID number and request access 
