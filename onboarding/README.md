@@ -46,11 +46,14 @@
 - Annual parking permits end on the university's fiscal year (June 30th). If you obtain a pass in the middle of the parking permit year, you will just pay the difference between your start date and June 30th 
 - The price of the parking pass will be taken monthly from your paycheck. If you are paid bi-weekly, the payment will be taken from your second paycheck every month 
 - Parking Permit Options 
-  - **Blue AVI pass**: Can park in spots that are close to campus core locations, will not need to take bus to building ($766 annually)
-  - **Yellow AVI pass**: Parking locations are further away from campus core buildings, you may need to take a bus to your location ($167 annually)
-  - **Orange pass**: furthest away from campus core buildings, you will most likely need to take a bus to your location ($84 annually)  
+  - **Blue AVI Pass**: Can park in spots that are close to campus core locations, will not need to take bus to building ($766 annually)
+  - **Yellow AVI Pass**: Parking locations are further away from campus core buildings, you may need to take a bus to your location ($167 annually)
+  - **Orange Pass**: furthest away from campus core buildings, you will most likely need to take a bus to your location ($84 annually)  
 
 ## Lab Documents and Communications 
 - Slack 
+  - Our lab uses Slack to Communicate with each other. You will be added into the chat by Luis
+  - Slack has the ability to create different channels related to different topics. For our lab, we have a general channel that surrounds work-related announcements and communications, a random channel to talk about non-work related topics (films, food, etc.), and an ordering channel where you list things that need to be ordered and stocked in the lab 
+  - Slack is also a great way to get in touch with people individually 
 - GitHub
 - Shared Google Drives
