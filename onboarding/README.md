@@ -56,13 +56,15 @@
   - Slack has the ability to create different channels related to different topics. For our lab, we have a general channel that surrounds work-related announcements and communications, a random channel to talk about non-work related topics (films, food, etc.), and an ordering channel where you list things that need to be ordered and stocked in the lab
   - Slack is also a great way to get in touch with people individually 
 - GitHub
+  - Our lab uses GitHub for lab documents 
+  - Here is a helpful link to learn GitHub: (link) 
+  - Do not hesitate to ask Alex for any help with starting up GitHub! 
 - Shared Google Drives
-  - Like Slack, we have a lab specific shared drive and a neighborhood shared drive 
   - Lab Drive:
   - MB2 Neighborhood Drive: 
     - This is where you want to submit your lab training certificates. Talk to Dylan Baker (the neighborhood Lab Manager) to get access to this folder. You will create a new folder under Training Records --> Zaman with your name. Place the PDF versions of your training certificates into the new folder and label them "Last name, First (Name of) Training"
 
 ## Google Sites 
-- If you need to use equiptment or a certain room, you need to check sign out a time for it using the google pages link below. To do this please add the room/piece of equipment calendar to your umich google calendar: go to the MB2 link below --> select "equipment" or "rooms" --> select what room or piece of equipment you are checking out --> download the calendar by hitting the blue + button on the bottom of the calendar --> open up google calendar in a new tab and select the new calendar. Once you add the calendar, you will not need to repeat these steps as the calendar will already be saved to your google calendar 
-- To check out the room/equipment select the correct calendar in google canendars --> add event --> put the date, time and your name during the period you will be using the room/equipment 
+- If you need to use equiptment or a certain room, you need to check sign out a time for it using the google pages link below. To do this please add the room/piece of equipment calendar to your umich google calendar: go to the MB2 link below --> *select "equipment" or "rooms" --> select what room or piece of equipment you are checking out --> download the calendar by hitting the blue + button on the bottom of the calendar --> open up google calendar in a new tab and select the new calendar*. Once you add the calendar, you will not need to repeat these steps as the calendar will already be saved to your google calendar 
+- To check out the room/equipment *select the correct calendar in google canendars --> add event --> put the date, time and your name during the period you will be using the room/equipment* 
   - (MB2 neighborhood page) 
