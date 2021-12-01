@@ -16,7 +16,7 @@
 
 ## My LINC Trainings (Link) 
 - All required online trainings will be through My LINC. 
-- To access My linc go to *Womverine Access* --> *My LINC* 
+- To access My LINC go to *Womverine Access* --> *My LINC* 
 - New Hire Trainings: 
   - **FERPA**: RO100 FERPA at U-M
   - **Culture of Respect and Sexual Harassment**: OL_19SMC01 Cultivating a Culture of Respect 
@@ -26,3 +26,5 @@
   - **Autoclave Operations**: EHS_BLS013w Autoclave Operation and Safety Procedures 
   - **Centrifuge Training**: EHS_BLS023w Centrifuge & Rotor Safety Training  
   - **Working During Covid-19**: EHS_OHS_COVIDw COVID-19: Working Safely at U-M 
+  - **Bloodborne Pathogens**: EHS_BLS100w Bloodborne Pathogen (BBP) Training for Researhc Labs 
+  - **BSL 2**: EHS_BLS301w Biosafety Training (BSL-2)
