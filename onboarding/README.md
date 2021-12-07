@@ -1,6 +1,6 @@
 # **Onboarding Tips and Tricks** 
 
-## Wolverine Access Information (Attach link to WA here) 
+## Wolverine Access Information <https://wolverineaccess.umich.edu>
 - Timesheets 
   - If you are non-exempt, you will need to submit your timesheet by the last Sunday of the bi-weekly pay period. 
   - If you are exempt, you will need to submit your timesheet by the last Monday of each month. 
