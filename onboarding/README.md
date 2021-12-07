@@ -1,7 +1,7 @@
 # **Onboarding Tips and Tricks** 
 
 ## Wolverine Access Information 
-- <https://wolverineaccess.umich.edu>
+- Access Wolverine Access [here](https://wolverineaccess.umich.edu)
 - Timesheets 
   - If you are non-exempt, you will need to submit your timesheet by the last Sunday of the bi-weekly pay period. 
   - If you are exempt, you will need to submit your timesheet by the last Monday of each month. 
@@ -16,7 +16,7 @@
   - To Submit proof of vaccination go to *Wolverine Access* --> *COVID-19* --> *Report COVID-19 Vaccination* (Select partial vaccination if you have recieved one dose of a two dose vaccine series or if it will not be two weeks post final dose before your hire date). 
 
 ## My LINC Trainings  
-- All required online trainings will be through My LINC (link)
+- All required online trainings will be through My LINC 
 - To access My LINC go to *Wolverine Access* --> *My LINC* 
 - New Hire Trainings: 
   - **FERPA**: RO100 FERPA at U-M
