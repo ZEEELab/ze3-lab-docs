@@ -37,13 +37,13 @@
 
 ## MCard 
 - You will need an MCard to get access to the building, surrounding campus buildings and the lab space.
-- The closest MCard service office is the Student Activites Center (link)
-- You will need a photo ID and a filled out form (link) 
+- The closest MCard service office is the [Student Activites Center](https://finance.umich.edu/treasury/mcard/get-your-mcard/id-stations/mcard-center-student-activities-building)
+- You will need a photo ID and a filled out [form](https://finance.umich.edu/treasury/mcard/forms)  
   - *Note*: You do not need a form if you are already past your hire date and your appoitment is in the system
 - A few minutes after your card is printed, you will have general access to some campus buildings. In order to get access to the lab space, have Luis email Linda your UMID number and request access. 
 
 ## Parking Services 
-- You will obtain your physical parking permit through the Parking Office (link) 
+- You will obtain your physical parking permit through the [Parking Office](https://ltp.umich.edu/parking/permit-parking/) 
 - Annual parking permits follow the university's fiscal year (ends June 30th). If you obtain a pass in the middle of the parking permit year, you will just pay the difference between your start date and June 30th. 
 - The price of the parking pass will be taken monthly from your paycheck. If you are paid bi-weekly, the payment will be taken from your second paycheck every month. 
 - Parking Permit Options 
@@ -52,20 +52,21 @@
   - **Orange Pass**: furthest away from campus core buildings, you will most likely need to take a bus to your location ($84 annually)  
 
 ## Lab Documents and Communications 
-- Slack 
+- [Slack](https://slack.com/) 
   - We use two different slack groups in the Lab. The first group is just for our lab and the second group has everyone in the MB2 neighborhood. Luis will be able to get you into both of these groups.
   - Slack has the ability to create different channels related to different topics. For our lab, we have a general channel that surrounds work-related announcements and communications, a random channel to talk about non-work related topics (films, food, etc.), and an ordering channel where you list things that need to be ordered and stocked in the lab.
   - Slack is also a great way to get in touch with people individually. 
-- GitHub
+- [GitHub](https://circleci.com/integrations/github/?utm_source=google&utm_medium=sem&utm_campaign=sem-google-dg--uscan-en-github-maxConv-auth-nb&utm_term=g_e-github_c__rsa1_20210526&utm_content=sem-google-dg--uscan-en-github-maxConv-auth-nb_keyword-text_rsa-github_exact-&gclid=EAIaIQobChMI_oa1oenR9AIVnB-tBh0H7QSZEAAYASAAEgJ7AfD_BwE)
   - Our lab uses GitHub for lab documents.
-  - Here is a helpful link to learn GitHub: (link) 
+  - [Here](https://docs.github.com/en/get-started/quickstart/hello-world) is a helpful link to learn GitHub
+  - [Here](https://www.markdownguide.org/basic-syntax/) is a helpful link to learning how to write for markdown.
   - Do not hesitate to ask Alex for any help with starting up GitHub! 
 - Shared Google Drives
   - Lab Drive:
+    - This is where our lab will share data and documents about lab experiments. 
   - MB2 Neighborhood Drive: 
     - This is where you want to submit your lab training certificates. Talk to Dylan Baker (the neighborhood Lab Manager) to get access to this folder. You will create a new folder under *Training Records --> Zaman* with your name. Place the PDF versions of your training certificates into the new folder and label them "Last name, First name (Name of) Training"
 
 ## Google Sites 
-- If you need to use equiptment or a certain room, you need to sign out a time for it using the google pages link below. To do this please add the room/piece of equipment calendar to your umich google calendar: *select "equipment" or "rooms" --> select what room or piece of equipment you are checking out --> download the calendar by hitting the blue + button on the bottom of the calendar --> open up google calendar in a new tab and select the new calendar*. Once you add the calendar, you will not need to repeat these steps as the calendar will already be saved to your google calendar for future use. 
-- To check out the room/equipment *select the correct calendar in google canendars --> add event --> put the date, time and your name during the period you will be using the room/equipment* 
-  - (MB2 neighborhood page) 
+- If you need to use equiptment or a certain room, you need to sign out a time for it using this [google site](https://sites.google.com/umich.edu/mb2-neighborhood-scheduler/home?pli=1&authuser=3). To do this please add the room/piece of equipment calendar to your umich google calendar: *select "equipment" or "rooms" --> select what room or piece of equipment you are checking out --> download the calendar by hitting the blue + button on the bottom of the calendar --> open up google calendar in a new tab and select the new calendar*. Once you add the calendar, you will not need to repeat these steps as the calendar will already be saved to your google calendar for future use. 
+- To check out the room/equipment *select the correct calendar in google canendars --> add event --> put the date, time and your full name during the period you will be using the room/equipment* 
