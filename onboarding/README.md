@@ -58,8 +58,8 @@
   - Slack is also a great way to get in touch with people individually. 
 - [GitHub](https://circleci.com/integrations/github/?utm_source=google&utm_medium=sem&utm_campaign=sem-google-dg--uscan-en-github-maxConv-auth-nb&utm_term=g_e-github_c__rsa1_20210526&utm_content=sem-google-dg--uscan-en-github-maxConv-auth-nb_keyword-text_rsa-github_exact-&gclid=EAIaIQobChMI_oa1oenR9AIVnB-tBh0H7QSZEAAYASAAEgJ7AfD_BwE)
   - Our lab uses GitHub for lab documents.
-  - [Here](https://docs.github.com/en/get-started/quickstart/hello-world) is a helpful link to learn GitHub
-  - [Here](https://www.markdownguide.org/basic-syntax/) is a helpful link to learning how to write for markdown.
+  - [Here](https://docs.github.com/en/get-started/quickstart/hello-world) is a helpful link to learn GitHub.
+  - [Here](https://www.markdownguide.org/basic-syntax/) is a helpful link to learn how to write for markdown.
   - Do not hesitate to ask Alex for any help with starting up GitHub! 
 - Shared Google Drives
   - Lab Drive:
