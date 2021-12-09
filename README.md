@@ -5,3 +5,5 @@ This repository contains guides, documents, resources, _et cetera_ for the [Zama
 ## Contents
 
 - [Great Lakes HPC](./great-lakes-hpc/)
+- [Onboarding](./onboarding/)
+- [Lab Protocols](./protocols/)
