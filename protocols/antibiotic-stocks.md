@@ -1,16 +1,16 @@
-# Antibiotic Stocks 
+# ZE<sup>3</sup> Antibiotic Stocks 
 *Note:* Each stock solution is created for 10mL of stock solution. Adjust the protocol as needed. Prepared antibiotic aliquots can be found in the shared -20C freezer in the orange box labeled "*LZ Antibiotic Stocks*" 
 
 ## 50 ug/mL Kanamycin Stock (Kan) 
 *Notes:* Plates containing kanamycin tend to lose sensitivity after 2 weeks. Best practice is to make new plates every 2-4 weeks.  
-- 10mL ddH2O 
+- 10mL ddH<sub>2</sub>O 
 - 0.5g Kanamycin sulfate 
 - Filter sterilize 
 - Store at -20C
 
 ## 100 ug/mL Ampicillin Stock (Amp) 
 *Notes:* Ampicillin degrades quickly in stock solution and on plates. They can last between 6 months to 1 year in -20C. You can substitute carbenicillin for ampicillin (make sure to use the same concentration).
-- 10mL ddH2O
+- 10mL ddH<sub>2</sub>O
 - 1g Ampicillin sodium salt 
 - Filter sterilize 
 - Store at -20C
