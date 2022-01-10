@@ -1,4 +1,4 @@
-# ZE<sup>3</sup> Lab Plate Protocols
+# ZE<sup>3</sup> Growth Plates
 
 ## LB Plates
 To a 2L flask, add:  
