@@ -2,5 +2,5 @@
 
 ## Contents
 
-- [Washing and autoclaving](./washing-and-autoclaving.md)
-- [Antibiotic Stocks](./antibiotic
+- [Washing and Autoclaving](./washing-and-autoclaving.md)
+- [Antibiotic Stocks](./antibiotic-stocks.md) 
