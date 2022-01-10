@@ -3,3 +3,7 @@
 
 ## 50 ug/mL Kanamycin Stock (Kan) 
 Notes: Plates containing kanamycin tend to lose sensitivity after 2 weeks. Best practice is to make new plates every 2-4 weeks.  
+- 10mL dH2O 
+- 0.5 g Kanamycin sulfate 
+- Filter sterilize 
+- Store at -20C
