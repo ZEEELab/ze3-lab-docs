@@ -15,18 +15,17 @@ To a 2L flask, add:
 Autoclave agar on liquid cycle 2. Once slightly cooled, add antibiotics using correct concentrated amounts from premade alliquotes. Pour agar into sterile plates and allow to cool on the bench for 2-3 days. *(can adjust protocol for smaller batches of LB antibiotic plates)* 
 
 ## M9 Minimal Media Plates + Glucose  
-In a 500mL bottle, make the M9 Media:
-- 500mL ddH<sub>2</sub>O
-- 6g Sodium phosphate (Na<sub>2</sub>HPO<sub>4</sub>)
-- 3g Potassium phosphate (KH<sub>2</sub>PO<sub>4</sub>)
-- 0.5g Sodium chloride (NaCl) 
-- 1g Ammonium chloride (NH<sub>4</sub>Cl)
+In a 1L flask, make the M9 media (5M concentration): 
+- 1L ddH2O
+- 56.4g M9 minimal salts, 5x concentration 
+- Mix well and pour 500mL into two separate 1L bottles (Label bottles!) 
 
 In a 2L flask, make the Agar: 
-- 500mL ddH<sub>2</sub>O
+- 800mL ddH<sub>2</sub>O
 - 16g Agar
 
-Autoclave bottles of media and agar separately using liquid cycle 2. Once slightly cooled, combine bottles and add the following: 
+Autoclave bottles of media and agar separately using liquid cycle 2. Once slightly cooled, add the following to the flask containing the agar: 
+- 200mL 5M M9 media 
 - 1mL 1M Magnesium sulfate (MgSO<sub>4</sub>)
 - 1mL 0.1 Calcium chloride (CaCl<sub>2</sub>) 
 - 10mL 10% Glucose 
