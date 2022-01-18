@@ -16,7 +16,7 @@ Autoclave agar on liquid cycle 2. Once slightly cooled, add antibiotics using co
 
 ## M9 Minimal Media Plates + Glucose  
 In a 1L flask, make the M9 media (5M concentration): 
-- 1L ddH2O
+- 1L ddH<sub>2</sub>O
 - 56.4g M9 minimal salts, 5x concentration 
 - Mix well and pour 500mL into two separate 1L bottles (Label bottles!) 
 
