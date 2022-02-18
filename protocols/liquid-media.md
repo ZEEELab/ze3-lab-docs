@@ -1,4 +1,4 @@
-ZE<sup>3</sup> Liquid Media Protocols 
+# ZE<sup>3</sup> Liquid Media Protocols 
 
 ## SOB Media
 To 800mL ddH<sup>2</sup>O, add the following: 
