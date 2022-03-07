@@ -14,8 +14,8 @@
 ## Day 3:
 - Count the number of plaques on the plate. 
 - Complete calculation to determine phage titer.
-    n x 10 x d = PFU/mL 
-    n = plaques and d = dilution  
+    - n x 10 x d = PFU/mL 
+    - n = plaques and d = dilution  
 
 ## Notes: 
 - If the soft agar seems grainy, this means the aliquot cooled off too much before pouring over the plate. 
