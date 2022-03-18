@@ -58,7 +58,7 @@ To 1 L of  ddH2O, add:
 - 6 g Agar 
 - Autoclave 
 
-**Note:** Keep soft agar in a 1 L media bottle on the shelf. When needed, loosen the cap and microwave for a few seconds to melt agar. 
+**Note:** Keep soft agar in a 1 L media bottle on the shelf. When needed, loosen the cap and microwave for a few minutes to melt agar. 
 
 
 
