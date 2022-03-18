@@ -52,6 +52,13 @@ After autoclaving and the media has slightly cooled, add:
 
 **Note:** These bottles of M9 do not contain glucose, add glucose to cultures containing M9 media before adding cells! (Add 10 microliters of glucose per 1 mL M9)
 
+## LB Soft 0.6% Agar
+To 1 L of  ddH2O, add: 
+- 25 g LB Broth 
+- 6 g Agar 
+- Autoclave 
+
+**Note:** Keep soft agar in a 1 L media bottle on the shelf. When needed, loosen the cap and microwave for a few seconds to melt agar. 
 
 
 
