@@ -52,6 +52,14 @@ After autoclaving and the media has slightly cooled, add:
 
 **Note:** These bottles of M9 do not contain glucose, add glucose to cultures containing M9 media before adding cells! (Add 10 microliters of glucose per 1 mL M9)
 
+## LBM9 Media 
+To 800 mL ddH2O, add: 
+- 8 g Tryptone 
+- 4 g Yeast Extract 
+- Autoclave
+
+After the bottle cools slightly, add 200 mL 5x M9 salts and mix well. 
+
 ## LB Soft 0.6% Agar
 To 1 L of  ddH2O, add: 
 - 25 g LB Broth 
