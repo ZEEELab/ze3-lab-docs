@@ -54,8 +54,8 @@ After autoclaving and the media has slightly cooled, add:
 
 ## LBM9 Media 
 To 800 mL ddH2O, add: 
-- 8 g Tryptone 
-- 4 g Yeast Extract 
+- 12.5 g Tryptone 
+- 6.25 g Yeast Extract 
 - Autoclave
 
 After the bottle cools slightly, add 200 mL 5x M9 salts and mix well. 
