@@ -41,7 +41,6 @@ To a 500 mL bottle, add:
 Autoclave both bottles separately.
 
 5% Triphenyl Tetrazolium Chloride (TTC)
-To a 50 mL conical tube, add:
 - 40 mL ddH2O 
 - 2 g Triphenyl Tetrazolium Chloride (TTC) 
 - Filter Sterilize and wrap in foil
